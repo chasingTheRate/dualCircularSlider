@@ -1,3 +1,6 @@
+
+##Dual Circular Slider
+
 ## Synopsis
 
 Circular iOS slider with min and max controls. Written in Swift
