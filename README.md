@@ -19,8 +19,7 @@ let dualSlider = DualSlider(frame: CGRect)
 
 Project inspired by the following project:
 
-CERangeSlider
-BWCircularSlider
+CERangeSlider, BWCircularSlider
 
 ## License
 
